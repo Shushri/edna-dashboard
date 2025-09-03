@@ -1,0 +1,7 @@
+h1 {
+  color: #0d6efd; /* Bootstrap’s primary blue */
+}
+
+.card {
+  border-radius: 12px !important; /* override Bootstrap radius */
+}
